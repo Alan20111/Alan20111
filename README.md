@@ -3,6 +3,9 @@
   
   [Certificate Laravel 2024](https://github.com/user-attachments/files/20415990/CP.006.Alan.Daniel.Mendez.Jimenez.1.pdf)
 
+  [SEO y content marketing](https://github.com/user-attachments/files/20987048/1108_24030976%40itcelaya.edu.mx.pdf)
+
+  [Fundamentos de ChatGPT](https://github.com/user-attachments/files/20987068/892_24030976%40itcelaya.edu.mx.1.pdf)
 
 <!--
 **Alan2011[certificado_24030976 (1).pdf](https://github.com/user-attachments/files/20415942/certificado_24030976.1.pdf)
