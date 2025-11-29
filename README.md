@@ -7,6 +7,8 @@
 
   [Fundamentos de ChatGPT 2025](https://github.com/user-attachments/files/20987068/892_24030976%40itcelaya.edu.mx.1.pdf)
 
+  [Certificate in AI, Debian-Linux and Laravel Agents 2025.pdf](https://github.com/user-attachments/files/23831712/Certificado.en.Agentes.IA.Debian.y.Laravel.2025.pdf)
+
 <!--
 **Alan2011[certificado_24030976 (1).pdf](https://github.com/user-attachments/files/20415942/certificado_24030976.1.pdf)
 1/Alan20111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
