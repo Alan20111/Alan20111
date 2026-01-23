@@ -1,15 +1,15 @@
 ## Hello, I'm Alan, a Java and Web FullStack developer. 👋
-  [Certificate HackOnLinces 2025 - TECNM](https://github.com/user-attachments/files/20415948/certificado_24030976.1.pdf)
+  [HackOnLinces 2025 - TECNM](https://github.com/user-attachments/files/20415948/certificado_24030976.1.pdf)
 
-  [Certificate in AI, Debian and Laravel 2025 - TECNM|CIISTI](https://github.com/user-attachments/files/23831712/Certificado.en.Agentes.IA.Debian.y.Laravel.2025.pdf)
+  [AI, Debian and Laravel 2025 - TECNM|CIISTI](https://github.com/user-attachments/files/23831712/Certificado.en.Agentes.IA.Debian.y.Laravel.2025.pdf)
 
-  [Certificate Advanced Java 2026 - INFOTEC](https://github.com/user-attachments/files/24832240/LOTE_JAVA_144-12.pdf)
+  [Advanced Java 2026 - INFOTEC](https://github.com/user-attachments/files/24832240/LOTE_JAVA_144-12.pdf)
   
-  [Certificate Laravel 2024 - TECNM|CRODE](https://github.com/user-attachments/files/20415990/CP.006.Alan.Daniel.Mendez.Jimenez.1.pdf)
+  [Laravel 2024 - TECNM|CRODE](https://github.com/user-attachments/files/20415990/CP.006.Alan.Daniel.Mendez.Jimenez.1.pdf)
 
-  [Certificate SEO y content marketing 2025 - SANTANDER](https://github.com/user-attachments/files/20987048/1108_24030976%40itcelaya.edu.mx.pdf)
+  [SEO y content marketing 2025 - SANTANDER](https://github.com/user-attachments/files/20987048/1108_24030976%40itcelaya.edu.mx.pdf)
 
-  [Certificate ChatGPT Fundamentals 2025 - SANTANDER](https://github.com/user-attachments/files/20987068/892_24030976%40itcelaya.edu.mx.1.pdf)
+  [ChatGPT Fundamentals 2025 - SANTANDER](https://github.com/user-attachments/files/20987068/892_24030976%40itcelaya.edu.mx.1.pdf)
 
 <!--
 **Alan2011[certificado_24030976 (1).pdf](https://github.com/user-attachments/files/20415942/certificado_24030976.1.pdf)
