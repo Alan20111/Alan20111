@@ -7,9 +7,9 @@
   
   [Certificate Laravel 2024 - TECNM|CRODE](https://github.com/user-attachments/files/20415990/CP.006.Alan.Daniel.Mendez.Jimenez.1.pdf)
 
-  [SEO y content marketing 2025 - SANTANDER](https://github.com/user-attachments/files/20987048/1108_24030976%40itcelaya.edu.mx.pdf)
+  [Certificate SEO y content marketing 2025 - SANTANDER](https://github.com/user-attachments/files/20987048/1108_24030976%40itcelaya.edu.mx.pdf)
 
-  [ChatGPT Fundamentals 2025 - SANTANDER](https://github.com/user-attachments/files/20987068/892_24030976%40itcelaya.edu.mx.1.pdf)
+  [Certificate ChatGPT Fundamentals 2025 - SANTANDER](https://github.com/user-attachments/files/20987068/892_24030976%40itcelaya.edu.mx.1.pdf)
 
 <!--
 **Alan2011[certificado_24030976 (1).pdf](https://github.com/user-attachments/files/20415942/certificado_24030976.1.pdf)
