@@ -11,6 +11,8 @@
   
   🔘[ChatGPT Fundamentals 2025 - SANTANDER](https://github.com/user-attachments/files/20987068/892_24030976%40itcelaya.edu.mx.1.pdf)
 
+  🔘[Full Stack Spring Boot 4, Angular 21 - DEV SENIOR](https://github.com/user-attachments/files/25754668/Certificado.CEO.I.Dev.Senior.pdf)
+
 <!--
 **Alan2011[certificado_24030976 (1).pdf](https://github.com/user-attachments/files/20415942/certificado_24030976.1.pdf)
 1/Alan20111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
